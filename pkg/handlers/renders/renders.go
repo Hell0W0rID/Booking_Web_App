@@ -7,8 +7,8 @@ import (
 	"path/filepath"
 	"text/template"
 
-	"github.com/Hell0W0rID/Booking_App/pkg/handlers/config"
-	"github.com/Hell0W0rID/Booking_App/pkg/models"
+	"github.com/Hell0W0rID/Booking_Web_App/pkg/handlers/config"
+	"github.com/Hell0W0rID/Booking_Web_App/pkg/models"
 )
 
 // 1 . RenderTemplates renders templates
